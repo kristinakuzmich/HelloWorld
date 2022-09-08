@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/Area.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Array.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Bird.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Car.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/CarProgram.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/City.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Customer.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Customer2.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Customerr.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Ferrari.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Finch.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Ford.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/HOUR.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/HelpClassDemo.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/KINO.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main2.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/MainBird.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/MainCircle.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/MainOrder.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/MainQuadra.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/MainStudent.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Martin.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Massive.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Matrix.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/MatrixString.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/NUM.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Numbers.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Order.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Potato_counting.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Power.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Quadra.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Region.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/SO.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/State.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Str.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StrChar.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StrLong.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StrMun.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StrTwo.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StrUpp.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Student.java" charset="UTF-16" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
